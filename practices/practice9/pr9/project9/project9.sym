@@ -1,0 +1,64 @@
+__Lrdata 78 FFFFFF8B DATA
+__Hrbss 78 0 DATA
+__Lrbss 20 0 DATA
+strx_xcopy 5B 0 CODE
+__Birdata 3 FFFFFF8B DATA
+__Hirdata 78 FFFFFF8B DATA
+__Lirdata 78 FFFFFF8B DATA
+powerup B0 0 CODE
+__Htext 78 0
+__Ltext 78 0
+strx_copy 71 0 CODE
+__Hcode 78 0
+__Lcode 78 0
+__Hdata 156 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 78 0 XDATA
+__Hbss 78 0 XDATA
+__Hstrings 100 0 CODE
+__Lbss 78 0 XDATA
+__Lstrings 100 0 CODE
+str_xcopy 5B 0 CODE
+__S0 156 0
+start1 9C 0 CODE
+__Hnvram 78 0 XDATA
+small_model 1 0
+__Lnvram 78 0 XDATA
+__Hheap 78 0 XDATA
+__Lheap 78 0 XDATA
+_main 3 0 CODE
+str_copy 71 0 CODE
+?a_main 20 0 DATA
+_exit AD 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+strx_load 71 0 CODE
+__Brbit 20 20 BITSEG
+str_load 71 0 CODE
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 78 0 DATA
+__Hidata 78 0 DATA
+__Lidata 78 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFF8B DATA
+__Hrdata 78 FFFFFF8B DATA
+%segments
+vectors 0 B2 CODE
+rbit 0 57 BITSEG
+data 100 155 CODE
+%locals
+Z:\main_0.obj
+C:\Users\PROFES~1\Desktop\38CC~1\61C4D~1\1072~1\PRACTI~1\PR1CBE~1\pr9\project9\main.c
+4 3 0 CODE
+10 5 0 CODE
+14 14 0 CODE
+15 2B 0 CODE
+14 3E 0 CODE
+13 56 0 CODE
+18 58 0 CODE

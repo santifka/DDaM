@@ -1,0 +1,26 @@
+### HEXMate logfile and output summary ###
+### Memory Usage ###
+ Unused memory ranges:
+  B3h - FFh
+  156h - 17Fh
+  
+ Z:\project9.hex ranges:
+  0h - B2h
+  100h - 155h
+  
+### Hex Memory Map ###
+ Legend:
+  - = Unused memory
+  F = Filled ROM
+  S = Stored serial code
+  A = Stored ASCII string
+  R = Reserved for checksum
+  C = Stored checksum result
+  T = Trailing code
+  & = Find & replace opcode
+  1 = Z:\project9.hex
+00000000: 1111111111111111111111111111111111111111111111111111111111111111
+00000040: 1111111111111111111111111111111111111111111111111111111111111111
+00000080: 111111111111111111111111111111111111111111111111111-------------
+00000100: 1111111111111111111111111111111111111111111111111111111111111111
+00000140: 1111111111111111111111------------------------------------------
